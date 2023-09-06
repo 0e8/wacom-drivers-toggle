@@ -1,4 +1,4 @@
-# Toggle Wacom Drivers
+# Wacom drivers toggle tool
 ### Toggling drivers
-`py DisableDrivers.py
-py EnableDrivers.py`
+`py DisableDrivers.py` - **Disabling** drivers
+`py EnableDrivers.py` - **Enabling** drivers
